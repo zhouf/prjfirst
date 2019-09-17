@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="hello">Hello swufe</string>
+    <string name="str1">One</string>
+    <string name="str2">Two</string>
+    <string name="btn_label">Button</string>
+</resources>

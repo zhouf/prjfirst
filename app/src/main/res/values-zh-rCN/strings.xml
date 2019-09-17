@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">中文</string>
+    <string name="hello">你好</string>
+    <string name="str1">一</string>
+    <string name="str2">二</string>
+    <string name="btn_label">按钮</string>
+</resources>
