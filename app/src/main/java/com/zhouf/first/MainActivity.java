@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
 
         out = findViewById(R.id.btn);
-        out.setText("Hello kkkkk");
+        out.setText("Hello 22333");
         Log.i(TAG, "onCreate: ");
 
         EditText inp = findViewById(R.id.inp);
